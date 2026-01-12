@@ -6,7 +6,7 @@ const firebaseConfig = {
     apiKey: "AIzaSyAOSY1Ju8T5jexXSRsnZhHvsUZU0vvyixc",
     authDomain: " syscod7-d1753.firebaseapp.com ",
     projectId: "syscod7-d1753",
-    storageBucket: "syscod7-d1753.firebasestorage.app",
+    storageBucket: " syscod7-d1753.firebaseapp.com ",
     messagingSenderId: "162544196092",
     appId: "1:162544196092:web:6a84701201f6731627fa79"
 };
